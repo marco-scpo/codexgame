@@ -152,7 +152,7 @@ p {
 }
 .game-logo small {
   display: block;
-  font: 8px var(--mono);
+  font: 12px var(--mono);
   letter-spacing: 1.5px;
   color: #7f91a2;
   margin-top: 7px;
@@ -165,12 +165,12 @@ p {
   gap: 7px;
 }
 .header-sector > span {
-  font-size: 8px;
+  font-size: 12px;
   color: #8d9aad;
   letter-spacing: 1px;
 }
 .header-sector strong {
-  font-size: 10px;
+  font-size: 12px;
   color: #a7c3ca;
   font-weight: 500;
   letter-spacing: 1px;
@@ -189,11 +189,11 @@ p {
   align-items: center;
   justify-content: center;
   gap: 7px;
-  font-size: 10px;
+  font-size: 12px;
   color: #9bafc0;
 }
 .system-buttons button span {
-  font-size: 9px;
+  font-size: 12px;
 }
 .system-buttons button svg {
   width: 14px;
@@ -240,7 +240,7 @@ p {
 }
 .stat-label {
   display: block;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #8f9fb6;
   margin-bottom: 5px;
@@ -250,7 +250,7 @@ p {
   color: #e0e6dc;
 }
 .hud strong small {
-  font: 10px var(--mono);
+  font: 12px var(--mono);
   color: #73859a;
   margin-left: 4px;
 }
@@ -276,7 +276,7 @@ p {
 }
 .income small {
   display: block;
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 0.7px;
   color: #758ba1;
   margin-top: 5px;
@@ -323,7 +323,7 @@ p {
   margin-left: 7px;
 }
 .orders strong small {
-  font-size: 9px;
+  font-size: 12px;
 }
 .command-grid {
   display: grid;
@@ -350,7 +350,7 @@ p {
   padding: 0 12px;
   border-bottom: 2px solid #3d4b5e;
   background: linear-gradient(#303e50, #243244);
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #afc2cd;
   box-shadow: inset 0 1px #61748945;
@@ -369,7 +369,7 @@ p {
   flex-shrink: 0;
 }
 .eyebrow {
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1.2px;
   color: #7f9bac;
   display: block;
@@ -390,14 +390,14 @@ p {
 }
 .difficulty-label {
   display: inline-block;
-  font-size: 7px;
+  font-size: 12px;
   color: #99afbf;
   border: 1px solid #4b5c6b;
   padding: 4px 6px;
   letter-spacing: 1px;
 }
 .mission-brief > p {
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.75;
   color: #8599b0;
   margin: 12px 0 16px;
@@ -406,14 +406,14 @@ p {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 8px;
+  font-size: 12px;
   color: #bbc9d2;
 }
 .objective-line b {
   margin-left: auto;
   font-weight: 500;
   color: #e5c289;
-  font-size: 9px;
+  font-size: 12px;
 }
 .objective-check {
   font-size: 13px;
@@ -456,7 +456,7 @@ p {
   align-items: center;
   justify-content: center;
   gap: 6px;
-  font-size: 8px;
+  font-size: 12px;
   padding: 9px 4px;
   color: #bde0d9;
   background: #203d43;
@@ -467,7 +467,7 @@ p {
   height: 14px;
 }
 .charge-button small {
-  font-size: 6px;
+  font-size: 12px;
   color: #80a6ae;
   margin-left: auto;
 }
@@ -485,19 +485,19 @@ p {
   align-items: center;
   justify-content: space-between;
   gap: 6px;
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 0.7px;
   color: #91a7b9;
   margin-bottom: 11px;
 }
 .section-title strong {
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 500;
   color: var(--cyan);
   letter-spacing: 0;
 }
 .section-title > span:last-child:not(:first-child) {
-  font-size: 6px;
+  font-size: 12px;
   color: #7792a8;
   letter-spacing: 0.3px;
 }
@@ -544,7 +544,7 @@ p {
   position: absolute;
   bottom: 4px;
   left: 6px;
-  font-size: 5px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #779a92;
 }
@@ -562,7 +562,7 @@ p {
   flex-wrap: wrap;
   gap: 5px 8px;
   margin: 10px 0;
-  font-size: 7px;
+  font-size: 12px;
   color: #acb7c9;
 }
 .contact-list > span {
@@ -575,7 +575,7 @@ p {
 }
 .contact-list .clear-sector {
   color: #708898;
-  font-size: 8px;
+  font-size: 12px;
 }
 .wave-forecast {
   border: 1px solid #574d49;
@@ -583,12 +583,12 @@ p {
   padding: 8px;
 }
 .wave-forecast > span {
-  font-size: 6px;
+  font-size: 12px;
   color: #ca9b77;
   letter-spacing: 0.7px;
 }
 .wave-forecast > strong {
-  font-size: 10px;
+  font-size: 12px;
   color: #e6bc91;
   text-transform: uppercase;
   display: block;
@@ -597,12 +597,12 @@ p {
 }
 .wave-forecast small {
   display: block;
-  font-size: 6px;
+  font-size: 12px;
   margin-top: 5px;
   color: #b7a290;
 }
 .wave-forecast p {
-  font-size: 7px;
+  font-size: 12px;
   line-height: 1.5;
   color: #b4a496;
   margin-top: 6px;
@@ -640,13 +640,13 @@ p {
 }
 .research-item strong {
   display: block;
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 500;
   color: #bcc9da;
 }
 .research-item small {
   display: block;
-  font-size: 6px;
+  font-size: 12px;
   color: #8a9bab;
   margin-top: 5px;
 }
@@ -670,7 +670,7 @@ p {
   flex-wrap: wrap;
 }
 .sector-record > span {
-  font-size: 6px;
+  font-size: 12px;
   color: #819ab0;
 }
 .sector-record > strong {
@@ -679,7 +679,7 @@ p {
   margin-left: auto;
 }
 .sector-record small {
-  font-size: 6px;
+  font-size: 12px;
   color: #7c91a4;
   width: 100%;
   letter-spacing: 0.5px;
@@ -696,7 +696,7 @@ p {
 }
 .view-controls button {
   padding: 4px 6px;
-  font-size: 6px;
+  font-size: 12px;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -729,7 +729,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 1.1px;
   color: #7a96a8;
   margin-bottom: 11px;
@@ -801,7 +801,7 @@ p {
   width: 12px;
   display: grid;
   grid-template-rows: repeat(9, 1fr);
-  font-size: 7px;
+  font-size: 12px;
   color: #7690a1;
   text-align: center;
 }
@@ -812,7 +812,7 @@ p {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   text-align: center;
-  font-size: 7px;
+  font-size: 12px;
   color: #7690a1;
   padding-top: 8px;
 }
@@ -821,7 +821,7 @@ p {
   gap: 13px;
   justify-content: center;
   align-items: center;
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 0.5px;
   color: #7e94a7;
   margin: 14px 0 0;
@@ -862,13 +862,13 @@ p {
 .dock-caption {
   display: flex;
   justify-content: space-between;
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #aebfcd;
   margin-bottom: 9px;
 }
 .dock-caption > span {
-  font-size: 6px;
+  font-size: 12px;
   color: #7894a5;
   letter-spacing: 0.5px;
 }
@@ -900,7 +900,7 @@ p {
   position: absolute;
   top: 4px;
   left: 5px;
-  font: 7px var(--mono);
+  font: 12px var(--mono);
   color: #627e93;
 }
 .blueprints .mini-sprite {
@@ -909,11 +909,11 @@ p {
   filter: drop-shadow(2px 3px 0 #050c1a66);
 }
 .blueprints button > span {
-  font-size: 7px;
+  font-size: 12px;
   white-space: nowrap;
 }
 .blueprints button > small {
-  font-size: 6px;
+  font-size: 12px;
   color: #a59275;
   margin-top: 4px;
 }
@@ -928,7 +928,7 @@ p {
   align-items: center;
   justify-content: space-between;
   color: #748ca4;
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1px;
   margin-bottom: 8px;
 }
@@ -937,7 +937,7 @@ p {
   border: 0;
   box-shadow: none;
   padding: 0;
-  font-size: 6px;
+  font-size: 12px;
   color: #8ba8b4;
 }
 .feed-lines > div {
@@ -945,12 +945,12 @@ p {
   gap: 10px;
   align-items: baseline;
   padding: 3px 0;
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.5;
 }
 .feed-lines > div > span {
   color: #536d86;
-  font-size: 7px;
+  font-size: 12px;
   flex-shrink: 0;
 }
 .feed-lines p {
@@ -960,7 +960,7 @@ p {
   text-overflow: ellipsis;
 }
 .coord {
-  font-size: 9px !important;
+  font-size: 12px !important;
   letter-spacing: 0.5px;
   color: #ffcc88 !important;
 }
@@ -999,12 +999,12 @@ p {
   position: absolute;
   right: 8px;
   bottom: 7px;
-  font-size: 6px;
+  font-size: 12px;
   color: #7292a3;
   letter-spacing: 1px;
 }
 .tile-identity .eyebrow {
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 1px;
 }
 .tile-identity h3 {
@@ -1014,7 +1014,7 @@ p {
   text-transform: uppercase;
 }
 .tile-description {
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.8;
   color: #8a9fb5;
   margin-top: 10px;
@@ -1025,11 +1025,11 @@ p {
   align-items: center;
   justify-content: space-between;
   margin-top: 14px;
-  font-size: 6px;
+  font-size: 12px;
   color: #8aa2b7;
 }
 .integrity strong {
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 500;
   color: #b1d5c1;
 }
@@ -1057,14 +1057,14 @@ p {
   justify-content: center;
   flex: 1;
   padding: 9px 4px;
-  font-size: 7px;
+  font-size: 12px;
 }
 .structure-actions svg {
   width: 14px;
   height: 14px;
 }
 .structure-actions small {
-  font-size: 6px;
+  font-size: 12px;
   color: #869aae;
 }
 .structure-actions button:disabled {
@@ -1095,13 +1095,13 @@ p {
   height: 33px;
 }
 .build-card strong {
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 500;
   display: block;
   white-space: nowrap;
 }
 .build-card small {
-  font-size: 6px;
+  font-size: 12px;
   display: block;
   color: #b6a78a;
   margin-top: 5px;
@@ -1112,7 +1112,7 @@ p {
   border-color: #384a5d;
 }
 .build-advice {
-  font-size: 7px;
+  font-size: 12px;
   color: #748ea4;
   line-height: 1.8;
   margin-top: 10px;
@@ -1142,18 +1142,18 @@ p {
   height: 20px;
 }
 .pulse-button strong {
-  font-size: 8px;
+  font-size: 12px;
   display: block;
   font-weight: 500;
 }
 .pulse-button small {
   display: block;
-  font-size: 6px;
+  font-size: 12px;
   margin-top: 6px;
   color: #a697c0;
 }
 .ability-section > p {
-  font-size: 7px;
+  font-size: 12px;
   line-height: 1.8;
   color: #7f8fa9;
   margin-top: 9px;
@@ -1161,7 +1161,7 @@ p {
 .recover-button {
   width: 100%;
   margin-top: 13px;
-  font-size: 9px !important;
+  font-size: 12px !important;
 }
 .hostile-card {
   margin: 0 15px 15px;
@@ -1171,7 +1171,7 @@ p {
 }
 .hostile-card .section-title {
   color: #e5989e;
-  font-size: 7px;
+  font-size: 12px;
 }
 .hostile-card > div {
   display: flex;
@@ -1188,13 +1188,13 @@ p {
   color: #efb7ac;
 }
 .hostile-card small {
-  font-size: 7px;
+  font-size: 12px;
   display: block;
   color: #c29c9d;
   margin-top: 4px;
 }
 .hostile-card p {
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.7;
   color: #b092a1;
   margin-top: 5px;
@@ -1214,7 +1214,7 @@ p {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 6px;
+  font-size: 12px;
   color: #8ca0b5;
   letter-spacing: 0.7px;
   flex-wrap: wrap;
@@ -1223,7 +1223,7 @@ p {
 .save-status small {
   display: block;
   width: 100%;
-  font-size: 5px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #5e7c95;
   margin-left: 13px;
@@ -1236,12 +1236,12 @@ p {
   gap: 7px;
 }
 .turn-hint > span {
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 0.6px;
   color: #8ca5b9;
 }
 .turn-hint small {
-  font-size: 6px;
+  font-size: 12px;
   color: #677f95;
 }
 .end-turn {
@@ -1270,7 +1270,7 @@ p {
   height: 20px;
 }
 .end-turn kbd {
-  font: 8px var(--mono);
+  font: 12px var(--mono);
   padding: 3px 4px;
   border: 1px solid #876e4f;
   background: #c29a63;
@@ -1289,7 +1289,7 @@ p {
 }
 .primary,
 .secondary {
-  font-size: 11px;
+  font-size: 12px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1339,7 +1339,7 @@ p {
 }
 .result-overlay .eyebrow {
   color: var(--amber);
-  font-size: 8px;
+  font-size: 12px;
 }
 .result-art svg {
   width: 80px;
@@ -1352,7 +1352,7 @@ p {
   text-shadow: 2px 3px #0007;
 }
 .result-overlay p {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.8;
   color: #97acbe;
   max-width: 350px;
@@ -1363,7 +1363,7 @@ p {
   gap: 30px;
   margin: 5px 0 24px;
   color: #8ba1b6;
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1px;
 }
 .result-stats b {
@@ -1373,7 +1373,7 @@ p {
   margin-bottom: 5px;
 }
 .result-overlay .secondary {
-  font-size: 8px;
+  font-size: 12px;
   margin-top: 13px;
   padding: 10px 15px;
 }
@@ -1384,7 +1384,7 @@ p {
   transform: translate(-50%, 10px);
   max-width: 90vw;
   padding: 13px 20px;
-  font-size: 10px;
+  font-size: 12px;
   background: #183b3d;
   border: 2px solid #64a39b;
   color: #c7ece0;
@@ -1455,7 +1455,7 @@ p {
   margin: 16px 0;
 }
 .modal > p {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.8;
   color: #a2b5c9;
 }
@@ -1470,7 +1470,7 @@ p {
   margin-top: 24px;
 }
 .help-list {
-  font-size: 10px;
+  font-size: 12px;
   color: #9fb4c7;
   line-height: 1.85;
   list-style: none;
@@ -1493,7 +1493,7 @@ p {
   font-size: 12px;
 }
 .keyboard-tip {
-  font-size: 8px !important;
+  font-size: 12px !important;
   line-height: 1.8 !important;
   color: #91acba !important;
   border-top: 1px solid #455b70;
@@ -1513,12 +1513,12 @@ p {
   padding: 10px 0;
 }
 .full-log span {
-  font-size: 8px;
+  font-size: 12px;
   color: #6d8b9d;
   flex-shrink: 0;
 }
 .full-log p {
-  font-size: 10px;
+  font-size: 12px;
   color: #a9b8c6;
   line-height: 1.8;
 }
@@ -1532,12 +1532,12 @@ p {
   margin: 20px 0 25px;
 }
 .guide-intro p {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.9;
   color: #9bafc2;
 }
 .modal h3 {
-  font-size: 10px;
+  font-size: 12px;
   color: #d1bd97;
   letter-spacing: 1px;
   border-bottom: 1px solid #4c5c70;
@@ -1563,19 +1563,19 @@ p {
   flex-shrink: 0;
 }
 .codex-grid h4 {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
   color: #d2d5d4;
 }
 .codex-grid p {
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.9;
   color: #91a8bb;
   margin-top: 7px;
 }
 .codex-grid small {
   display: block;
-  font-size: 6px;
+  font-size: 12px;
   color: #ae9b7b;
   margin-top: 9px;
 }
@@ -1586,7 +1586,7 @@ p {
   max-width: 840px;
 }
 .launch-warning {
-  font-size: 9px !important;
+  font-size: 12px !important;
   color: #8ba1b4 !important;
 }
 .scenario-select {
@@ -1642,7 +1642,7 @@ p {
     radial-gradient(circle at 28% 25%, var(--planet), #171830 80%);
 }
 .scenario-card > .eyebrow {
-  font-size: 6px;
+  font-size: 12px;
   letter-spacing: 0.7px;
   color: #9eacbb;
 }
@@ -1653,13 +1653,13 @@ p {
   text-transform: uppercase;
 }
 .scenario-card > p {
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.7;
   color: #8fa6bd;
   min-height: 44px;
 }
 .scenario-check {
-  font-size: 7px;
+  font-size: 12px;
   color: var(--planet);
   margin-top: 17px;
   letter-spacing: 0.7px;
@@ -1678,11 +1678,11 @@ p {
   background: #1e2d43;
 }
 .difficulty-select strong {
-  font-size: 10px;
+  font-size: 12px;
   color: #acbed0;
 }
 .difficulty-select small {
-  font-size: 7px;
+  font-size: 12px;
   color: #7991aa;
   text-transform: none;
 }
@@ -1740,10 +1740,10 @@ p {
   background: #283b4e;
 }
 .event-choices strong {
-  font-size: 10px;
+  font-size: 12px;
 }
 .event-choices span {
-  font-size: 9px;
+  font-size: 12px;
   color: var(--amber);
   margin-left: auto;
 }
@@ -1753,7 +1753,7 @@ p {
   color: #a6c0ca;
 }
 .modal .event-note {
-  font-size: 7px;
+  font-size: 12px;
   color: #688ca0;
   letter-spacing: 1px;
   text-align: center;
@@ -1872,10 +1872,10 @@ p {
     padding: 20px;
   }
   .mission-brief > p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .objective-line {
-    font-size: 9px;
+    font-size: 12px;
   }
   .radar-section,
   .research-section {
@@ -1888,7 +1888,7 @@ p {
     padding: 10px;
   }
   .research-item strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .inspect-main,
   .construction-section {
@@ -1902,14 +1902,14 @@ p {
     height: 100px;
   }
   .tile-description {
-    font-size: 10px;
+    font-size: 12px;
   }
   .build-card {
     min-height: 66px;
     padding: 8px 5px;
   }
   .build-card strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .build-card .mini-sprite {
     width: 40px;
@@ -1945,7 +1945,7 @@ p {
     font-size: 27px;
   }
   .hud strong small {
-    font-size: 8px;
+    font-size: 12px;
   }
   .hud-meter {
     display: none;
@@ -1959,10 +1959,10 @@ p {
     height: 15px;
   }
   .income {
-    font-size: 10px;
+    font-size: 12px;
   }
   .income small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .mission-brief,
   .radar-section,
@@ -1973,42 +1973,42 @@ p {
     font-size: 23px;
   }
   .objective-line {
-    font-size: 7px;
+    font-size: 12px;
     gap: 4px;
   }
   .objective-line b {
-    font-size: 8px;
+    font-size: 12px;
   }
   .mission-brief > p {
-    font-size: 8px;
+    font-size: 12px;
   }
   .panel-cap {
     padding: 0 9px;
-    font-size: 7px;
+    font-size: 12px;
   }
   .charge-button {
-    font-size: 7px;
+    font-size: 12px;
     gap: 4px;
   }
   .charge-button small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .research-item {
     padding: 8px 5px;
     gap: 5px;
   }
   .research-item strong {
-    font-size: 7px;
+    font-size: 12px;
   }
   .research-item svg {
     width: 14px;
     height: 14px;
   }
   .section-title {
-    font-size: 6px;
+    font-size: 12px;
   }
   .radar-section .section-title strong {
-    font-size: 6px;
+    font-size: 12px;
   }
   .radar-display {
     height: 66px;
@@ -2021,17 +2021,17 @@ p {
     height: 85px;
   }
   .tile-description {
-    font-size: 8px;
+    font-size: 12px;
   }
   .build-card .mini-sprite {
     width: 28px;
     height: 28px;
   }
   .build-card strong {
-    font-size: 6px;
+    font-size: 12px;
   }
   .build-card small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .build-list {
     gap: 5px;
@@ -2043,7 +2043,7 @@ p {
     padding: 12px 9px 10px;
   }
   .map-topline {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.4px;
     padding-left: 14px;
   }
@@ -2052,13 +2052,13 @@ p {
   }
   .x-labels,
   .y-labels {
-    font-size: 6px;
+    font-size: 12px;
   }
   .y-labels {
     width: 10px;
   }
   .map-legend {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.2px;
     gap: 8px;
     padding-left: 12px;
@@ -2067,11 +2067,11 @@ p {
     gap: 4px;
   }
   .view-controls button {
-    font-size: 5px;
+    font-size: 12px;
     padding: 4px;
   }
   .battle-panel > .panel-cap > span {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.2px;
   }
   .blueprints {
@@ -2084,32 +2084,32 @@ p {
     padding: 4px 2px 7px;
   }
   .blueprints button > span {
-    font-size: 5px;
+    font-size: 12px;
   }
   .blueprints button > small {
-    font-size: 4px;
+    font-size: 12px;
   }
   .blueprints .mini-sprite {
     width: 32px;
     height: 32px;
   }
   .blueprints kbd {
-    font-size: 5px;
+    font-size: 12px;
     left: 3px;
   }
   .dock-caption {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.5px;
   }
   .dock-caption > span {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.1px;
   }
   .combat-feed {
     padding: 11px 10px;
   }
   .feed-lines > div {
-    font-size: 7px;
+    font-size: 12px;
     gap: 7px;
   }
   .game-header {
@@ -2122,11 +2122,11 @@ p {
     max-width: 230px;
   }
   .turn-hint > span {
-    font-size: 5px;
+    font-size: 12px;
   }
   .end-turn {
     min-width: 173px;
-    font-size: 11px;
+    font-size: 12px;
   }
 }
 @media (max-width: 850px) {
@@ -2159,11 +2159,11 @@ p {
     margin-left: auto;
   }
   .mission-brief > p {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .objective-line {
-    font-size: 8px;
+    font-size: 12px;
   }
   .mission-brief h2 {
     font-size: 25px;
@@ -2206,7 +2206,7 @@ p {
     display: none;
   }
   .stat-label {
-    font-size: 7px;
+    font-size: 12px;
   }
   .hud strong {
     font-size: 29px;
@@ -2225,26 +2225,26 @@ p {
     font-size: 22px;
   }
   .income small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .map-legend {
-    font-size: 6px;
+    font-size: 12px;
   }
   .battle-panel > .panel-cap > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .blueprints button > span {
-    font-size: 6px;
+    font-size: 12px;
   }
   .blueprints button > small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .blueprints .mini-sprite {
     width: 36px;
     height: 36px;
   }
   .map-topline {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.4px;
   }
   .command-footer {
@@ -2261,7 +2261,7 @@ p {
     grid-template-columns: 1fr;
   }
   .build-card strong {
-    font-size: 7px;
+    font-size: 12px;
   }
 }
 @media (max-width: 600px) {
@@ -2284,7 +2284,7 @@ p {
     height: 34px;
   }
   .game-logo small {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.6px;
   }
   .system-buttons {
@@ -2294,7 +2294,7 @@ p {
     height: 27px;
     min-width: 25px;
     padding: 0 5px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .system-buttons button svg {
     width: 13px;
@@ -2319,15 +2319,15 @@ p {
     gap: 3px;
   }
   .hud strong small {
-    font-size: 6px;
+    font-size: 12px;
     margin-left: 0;
   }
   .stat-label {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.7px;
   }
   .income {
-    font-size: 7px;
+    font-size: 12px;
     position: absolute;
     right: 5px;
     bottom: 6px;
@@ -2349,7 +2349,7 @@ p {
   }
   .orders .stat-label {
     margin: 0;
-    font-size: 6px;
+    font-size: 12px;
   }
   .orders > div {
     gap: 5px;
@@ -2359,7 +2359,7 @@ p {
     margin-left: 4px;
   }
   .orders strong small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .orders i {
     width: 6px;
@@ -2406,7 +2406,7 @@ p {
     font-size: 23px;
   }
   .tile-description {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.7;
   }
   .build-list {
@@ -2419,10 +2419,10 @@ p {
     gap: 8px;
   }
   .build-card strong {
-    font-size: 7px;
+    font-size: 12px;
   }
   .build-card small {
-    font-size: 6px;
+    font-size: 12px;
     margin-top: 4px;
   }
   .build-card .mini-sprite {
@@ -2430,13 +2430,13 @@ p {
     height: 28px;
   }
   .construction-section .section-title {
-    font-size: 6px;
+    font-size: 12px;
   }
   .construction-section .section-title > span:last-child {
-    font-size: 5px;
+    font-size: 12px;
   }
   .build-advice {
-    font-size: 6px;
+    font-size: 12px;
     margin-top: 8px;
   }
   .ability-section {
@@ -2457,13 +2457,13 @@ p {
     gap: 8px;
   }
   .pulse-button strong {
-    font-size: 7px;
+    font-size: 12px;
   }
   .pulse-button small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .ability-section > p {
-    font-size: 6px;
+    font-size: 12px;
     width: 40%;
     margin: 0;
   }
@@ -2493,7 +2493,7 @@ p {
     grid-column: 1;
   }
   .mission-brief > .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
   }
   .mission-brief h2 {
     font-size: 26px;
@@ -2502,7 +2502,7 @@ p {
   .difficulty-label {
     justify-self: start;
     margin-bottom: 10px;
-    font-size: 6px;
+    font-size: 12px;
   }
   .mission-brief > p {
     display: none;
@@ -2510,7 +2510,7 @@ p {
   .mission-brief > .objective-line {
     grid-column: 2;
     line-height: 1.7;
-    font-size: 7px;
+    font-size: 12px;
   }
   .mission-brief > .objective-line:nth-of-type(1) {
     grid-row: 1 / 3;
@@ -2533,11 +2533,11 @@ p {
     grid-column: 1;
     grid-row: 4 / 6;
     align-self: start;
-    font-size: 6px;
+    font-size: 12px;
     padding: 10px 5px;
   }
   .charge-button small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .radar-section {
     grid-column: 1;
@@ -2556,10 +2556,10 @@ p {
     min-height: 44px;
   }
   .research-item strong {
-    font-size: 6px;
+    font-size: 12px;
   }
   .research-item small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .research-icon svg {
     width: 12px;
@@ -2570,7 +2570,7 @@ p {
     margin: 0 12px 12px;
   }
   .sector-record small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .battlefield-container {
     padding: 11px 9px 10px;
@@ -2579,14 +2579,14 @@ p {
     padding: 0 9px;
   }
   .battle-panel > .panel-cap > span {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.1px;
   }
   .view-controls {
     gap: 4px;
   }
   .view-controls button {
-    font-size: 5px;
+    font-size: 12px;
     padding: 4px 3px;
   }
   .view-controls button[data-command="event"] {
@@ -2597,7 +2597,7 @@ p {
     height: 12px;
   }
   .map-topline {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.5px;
     margin-bottom: 9px;
   }
@@ -2606,10 +2606,10 @@ p {
   }
   .y-labels,
   .x-labels {
-    font-size: 5px;
+    font-size: 12px;
   }
   .map-legend {
-    font-size: 5px;
+    font-size: 12px;
     gap: 9px;
     letter-spacing: 0;
     padding-left: 0;
@@ -2626,11 +2626,11 @@ p {
     padding: 10px 8px;
   }
   .dock-caption {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.7px;
   }
   .dock-caption > span {
-    font-size: 4px;
+    font-size: 12px;
   }
   .blueprints {
     gap: 4px;
@@ -2640,13 +2640,13 @@ p {
     height: 35px;
   }
   .blueprints button > span {
-    font-size: 5px;
+    font-size: 12px;
   }
   .blueprints button > small {
-    font-size: 4px;
+    font-size: 12px;
   }
   .blueprints kbd {
-    font-size: 5px;
+    font-size: 12px;
     left: 3px;
     top: 4px;
   }
@@ -2654,7 +2654,7 @@ p {
     min-height: 92px;
   }
   .feed-lines > div {
-    font-size: 7px;
+    font-size: 12px;
     line-height: 1.65;
     padding: 2px 0;
   }
@@ -2673,19 +2673,19 @@ p {
     border-color: #526278;
   }
   .save-status {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.2px;
     gap: 5px;
     max-width: 155px;
   }
   .save-status small {
-    font-size: 4px;
+    font-size: 12px;
     letter-spacing: 0.5px;
     margin-left: 10px;
   }
   .end-turn {
     min-width: 145px;
-    font-size: 9px;
+    font-size: 12px;
     padding: 10px;
     gap: 9px;
   }
@@ -2694,11 +2694,11 @@ p {
     height: 16px;
   }
   .end-turn kbd {
-    font-size: 6px;
+    font-size: 12px;
   }
   .toast {
     bottom: 72px;
-    font-size: 9px;
+    font-size: 12px;
     padding: 11px;
   }
   .modal-backdrop {
@@ -2712,14 +2712,14 @@ p {
     font-size: 29px;
   }
   .modal > p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .modal-actions {
     gap: 8px;
   }
   .primary,
   .secondary {
-    font-size: 9px;
+    font-size: 12px;
     padding: 11px 12px;
     gap: 8px;
   }
@@ -2731,7 +2731,7 @@ p {
     gap: 14px;
   }
   .guide-intro p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .codex-grid {
     grid-template-columns: 1fr;
@@ -2743,14 +2743,14 @@ p {
     padding: 12px 8px;
   }
   .scenario-card > .eyebrow {
-    font-size: 5px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .scenario-card > strong {
     font-size: 21px;
   }
   .scenario-card > p {
-    font-size: 6px;
+    font-size: 12px;
     min-height: 62px;
   }
   .planet-art {
@@ -2763,7 +2763,7 @@ p {
     border-width: 3px;
   }
   .scenario-check {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0;
     margin-top: 10px;
   }
@@ -2774,20 +2774,20 @@ p {
     padding: 11px 5px;
   }
   .difficulty-select strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .difficulty-select small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .event-choices button {
     gap: 9px;
     padding: 13px;
   }
   .event-choices strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .event-choices span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .event-choices svg {
     width: 14px;
@@ -2797,7 +2797,7 @@ p {
     padding: 13px;
   }
   .result-overlay .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
   }
   .result-art svg {
     width: 50px;
@@ -2808,13 +2808,13 @@ p {
     font-size: 28px;
   }
   .result-overlay p {
-    font-size: 7px;
+    font-size: 12px;
     margin: 8px 0;
     max-width: 240px;
   }
   .result-stats {
     gap: 25px;
-    font-size: 5px;
+    font-size: 12px;
     margin: 7px 0 13px;
   }
   .result-stats b {
@@ -2822,11 +2822,11 @@ p {
     margin-bottom: 3px;
   }
   .result-overlay .primary {
-    font-size: 8px;
+    font-size: 12px;
     padding: 9px 13px;
   }
   .result-overlay .secondary {
-    font-size: 6px;
+    font-size: 12px;
     padding: 7px 10px;
     margin-top: 9px;
   }
@@ -2848,7 +2848,7 @@ p {
   }
   .system-buttons button span {
     display: inline;
-    font-size: 6px;
+    font-size: 12px;
   }
   .game-logo {
     margin-bottom: 2px;
@@ -2861,10 +2861,10 @@ p {
     font-size: 24px;
   }
   .hud strong small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .stat-label {
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.2px;
   }
   .hud .orders {
@@ -2875,16 +2875,16 @@ p {
     height: 28px;
   }
   .blueprints button > span {
-    font-size: 4px;
+    font-size: 12px;
   }
   .blueprints button > small {
-    font-size: 3.5px;
+    font-size: 12px;
   }
   .blueprints {
     gap: 3px;
   }
   .map-legend {
-    font-size: 4px;
+    font-size: 12px;
     gap: 8px;
   }
   .inspector {
@@ -2894,10 +2894,10 @@ p {
     font-size: 21px;
   }
   .tile-identity .eyebrow {
-    font-size: 5px;
+    font-size: 12px;
   }
   .tile-description {
-    font-size: 7px;
+    font-size: 12px;
   }
   .construction-section {
     padding-left: 0;
@@ -2908,45 +2908,45 @@ p {
     gap: 4px;
   }
   .build-card strong {
-    font-size: 6px;
+    font-size: 12px;
   }
   .build-card small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .build-card .mini-sprite {
     width: 26px;
     height: 26px;
   }
   .section-title {
-    font-size: 5px;
+    font-size: 12px;
   }
   .structure-actions button {
-    font-size: 6px;
+    font-size: 12px;
     padding: 8px 3px;
   }
   .structure-actions small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .integrity {
-    font-size: 5px;
+    font-size: 12px;
     gap: 5px;
     line-height: 1.6;
   }
   .integrity strong {
-    font-size: 6px;
+    font-size: 12px;
     white-space: nowrap;
   }
   .save-status {
-    font-size: 4px;
+    font-size: 12px;
     max-width: 130px;
   }
   .save-status small {
-    font-size: 3.5px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .end-turn {
     min-width: 139px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .mission-brief {
     padding: 13px 12px;
@@ -2959,20 +2959,20 @@ p {
     gap: 3px;
   }
   .mission-brief > .objective-line {
-    font-size: 6px;
+    font-size: 12px;
   }
   .mission-brief > .charge-button {
-    font-size: 5px;
+    font-size: 12px;
   }
   .charge-button svg {
     width: 10px;
     height: 10px;
   }
   .charge-button small {
-    font-size: 4px;
+    font-size: 12px;
   }
   .research-item strong {
-    font-size: 5.5px;
+    font-size: 12px;
   }
   .research-icon svg {
     width: 10px;
@@ -3010,21 +3010,21 @@ p {
     margin: 3px 0;
   }
   .scenario-card > .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
   }
   .scenario-card > p {
-    font-size: 7px;
+    font-size: 12px;
     min-height: 0;
   }
   .scenario-check {
-    font-size: 6px;
+    font-size: 12px;
     margin-top: 6px;
   }
   .difficulty-select small {
     display: none;
   }
   .difficulty-select strong {
-    font-size: 7px;
+    font-size: 12px;
   }
   .launch-modal > .modal-actions {
     flex-direction: column;
@@ -3048,91 +3048,91 @@ p {
 }
 @media (min-width: 1100px) {
   .stat-label {
-    font-size: 9px;
+    font-size: 12px;
   }
   .panel-cap {
-    font-size: 9px;
+    font-size: 12px;
   }
   .mission-brief > p,
   .tile-description {
-    font-size: 10px;
+    font-size: 12px;
   }
   .objective-line {
-    font-size: 9px;
+    font-size: 12px;
   }
   .section-title {
-    font-size: 8px;
+    font-size: 12px;
   }
   .section-title strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .charge-button {
-    font-size: 9px;
+    font-size: 12px;
   }
   .charge-button small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .research-item strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .research-item small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .wave-forecast > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .wave-forecast p,
   .wave-forecast small {
-    font-size: 8px;
+    font-size: 12px;
   }
   .contact-list {
-    font-size: 8px;
+    font-size: 12px;
   }
   .build-card strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .build-card small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .build-advice,
   .ability-section > p {
-    font-size: 8px;
+    font-size: 12px;
   }
   .pulse-button strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .pulse-button small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .blueprints button > span {
-    font-size: 8px;
+    font-size: 12px;
   }
   .blueprints button > small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .blueprints kbd {
-    font-size: 7px;
+    font-size: 12px;
   }
   .dock-caption {
-    font-size: 8px;
+    font-size: 12px;
   }
   .dock-caption > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .feed-lines > div {
-    font-size: 9px;
+    font-size: 12px;
   }
   .map-legend {
-    font-size: 7px;
+    font-size: 12px;
   }
   .save-status {
-    font-size: 7px;
+    font-size: 12px;
   }
   .turn-hint > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .turn-hint small {
-    font-size: 7px;
+    font-size: 12px;
   }
 }
 
@@ -3179,5 +3179,550 @@ p {
   .end-turn {
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+}
+
+/* Readable command text on every screen; panels adapt instead of shrinking type. */
+.game-logo small {
+  letter-spacing: 0.6px;
+}
+.command-grid {
+  grid-template-columns: 280px minmax(0, 1fr) 310px;
+}
+.game-header {
+  flex-wrap: wrap;
+}
+.panel-cap {
+  min-height: 40px;
+  height: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  letter-spacing: 0.3px;
+  flex-wrap: wrap;
+}
+.mission-brief > p,
+.tile-description,
+.ability-section > p,
+.build-advice,
+.guide-intro p,
+.modal > p,
+.help-list,
+.full-log p,
+.codex-grid p,
+.scenario-card > p,
+.hostile-card p {
+  font-size: 14px;
+  line-height: 1.65;
+}
+.objective-line {
+  font-size: 13px;
+  line-height: 1.6;
+  flex-wrap: wrap;
+}
+.objective-line b {
+  font-size: 13px;
+}
+.section-title {
+  flex-wrap: wrap;
+  line-height: 1.6;
+}
+.section-title strong,
+.section-title > span:last-child:not(:first-child) {
+  font-size: 12px;
+}
+.stat-label {
+  font-size: 12px;
+  letter-spacing: 0.3px;
+}
+.hud > div {
+  padding: 10px 14px;
+}
+.hud strong {
+  font-size: 34px;
+}
+.hud strong small {
+  font-size: 12px;
+}
+.income small {
+  font-size: 12px;
+  letter-spacing: 0;
+}
+.charge-button {
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 12px 8px;
+  font-size: 13px;
+}
+.charge-button small {
+  margin-left: 0;
+  font-size: 12px;
+}
+.research-item {
+  padding: 12px 9px;
+}
+.research-item strong,
+.build-card strong {
+  font-size: 13px;
+  white-space: normal;
+  line-height: 1.5;
+}
+.research-item small,
+.build-card small,
+.pulse-button small {
+  font-size: 12px;
+  line-height: 1.5;
+}
+.build-card {
+  gap: 7px;
+  padding: 9px 5px;
+}
+.build-card .mini-sprite {
+  width: 34px;
+  height: 34px;
+}
+.tile-portrait {
+  height: 90px;
+}
+.tile-identity h3 {
+  font-size: 28px;
+}
+.integrity {
+  font-size: 12px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.integrity strong {
+  font-size: 13px;
+}
+.structure-actions button {
+  font-size: 13px;
+  padding: 12px 7px;
+}
+.structure-actions small {
+  font-size: 12px;
+}
+.blueprints button > span {
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: normal;
+  text-align: center;
+}
+.blueprints button > small {
+  font-size: 12px;
+  text-align: center;
+}
+.blueprints kbd {
+  font-size: 12px;
+}
+.dock-caption {
+  font-size: 12px;
+  flex-wrap: wrap;
+  gap: 7px;
+  line-height: 1.5;
+}
+.dock-caption > span {
+  font-size: 12px;
+  letter-spacing: 0;
+}
+.map-topline {
+  font-size: 12px;
+  gap: 10px;
+  flex-wrap: wrap;
+  letter-spacing: 0;
+}
+.map-legend {
+  font-size: 12px;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  letter-spacing: 0;
+}
+.map-legend .legend-square {
+  width: 7px;
+  height: 7px;
+}
+.view-controls button {
+  font-size: 12px;
+  padding: 6px;
+}
+.view-controls button[data-command="event"] {
+  font-size: 12px;
+}
+.feed-lines > div {
+  font-size: 13px;
+}
+.feed-lines > div > span {
+  font-size: 12px;
+}
+.feed-lines p {
+  white-space: normal;
+  display: block;
+  overflow: visible;
+}
+.combat-feed {
+  min-height: 110px;
+}
+.feed-heading,
+.feed-heading button {
+  font-size: 12px;
+  letter-spacing: 0;
+}
+.save-status {
+  font-size: 12px;
+  max-width: 340px;
+  letter-spacing: 0;
+}
+.save-status small {
+  display: none;
+}
+.turn-hint > span,
+.turn-hint small {
+  font-size: 12px;
+  letter-spacing: 0;
+}
+.end-turn {
+  min-width: 190px;
+  font-size: 15px;
+}
+.end-turn kbd {
+  font-size: 12px;
+}
+.system-buttons button {
+  min-height: 36px;
+  padding: 6px 9px;
+}
+.system-buttons button span {
+  font-size: 12px;
+}
+.pulse-button strong {
+  font-size: 14px;
+}
+.modal .keyboard-tip,
+.modal .launch-warning {
+  font-size: 13px !important;
+}
+.primary,
+.secondary {
+  font-size: 14px;
+}
+.modal-actions {
+  flex-wrap: wrap;
+}
+.scenario-card > strong {
+  font-size: 28px;
+}
+.scenario-card > .eyebrow,
+.scenario-check,
+.difficulty-select small,
+.codex-grid small {
+  font-size: 12px;
+  line-height: 1.6;
+}
+.scenario-card > p {
+  min-height: 0;
+}
+.difficulty-select strong,
+.event-choices strong {
+  font-size: 14px;
+}
+.event-choices button {
+  flex-wrap: wrap;
+}
+.event-choices span,
+.modal .event-note {
+  font-size: 12px;
+}
+.result-overlay p {
+  font-size: 14px;
+}
+.result-overlay .secondary {
+  font-size: 12px;
+}
+.result-overlay .primary {
+  font-size: 14px;
+}
+.result-stats {
+  font-size: 12px;
+}
+.result-overlay {
+  overflow: auto;
+}
+@media (min-width: 1200px) and (min-height: 650px) {
+  .battlefield-container {
+    min-height: 220px;
+  }
+  .map-layout {
+    width: min(100%, calc((100cqh - 105px) * 1.3333 + 20px));
+  }
+  .combat-feed {
+    min-height: 116px;
+  }
+  .feed-lines > div:nth-child(n + 3) {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-height: 849px) {
+  .map-layout {
+    width: min(100%, calc((100cqh - 105px) * 1.7778 + 20px));
+  }
+}
+@media (max-width: 1199px) {
+  .game-shell {
+    height: auto;
+  }
+  .command-grid {
+    grid-template-columns: minmax(0, 1fr) 300px;
+  }
+  .battle-panel {
+    grid-column: 1;
+    grid-row: 1;
+    height: auto;
+  }
+  .inspector {
+    grid-column: 2;
+    grid-row: 1;
+    overflow: visible;
+  }
+  .mission-panel {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    overflow: visible;
+  }
+  .mission-panel > .panel-cap,
+  .sector-record {
+    grid-column: 1 / -1;
+  }
+  .mission-brief {
+    display: block;
+    min-height: 0;
+  }
+  .mission-brief > p {
+    display: block;
+  }
+  .battlefield-container {
+    overflow: visible;
+    container-type: normal;
+  }
+  .map-layout {
+    width: 100%;
+  }
+  .board {
+    aspect-ratio: 4 / 3;
+  }
+  .blueprints {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .header-sector {
+    display: none;
+  }
+  .command-footer {
+    position: sticky;
+    bottom: 5px;
+  }
+  .turn-hint {
+    display: none;
+  }
+  .end-turn {
+    margin-left: auto;
+  }
+  .hud {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+  .hud .orders {
+    display: block;
+    grid-column: auto;
+    border-top: 0;
+  }
+  .income {
+    position: static;
+    font-size: 13px;
+  }
+  .income small {
+    display: none;
+  }
+}
+@media (max-width: 850px) {
+  .command-grid {
+    grid-template-columns: 1fr;
+  }
+  .battle-panel {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .inspector {
+    grid-column: 1;
+    grid-row: 2;
+    display: block;
+  }
+  .mission-panel {
+    grid-column: 1;
+    grid-row: 3;
+    display: block;
+  }
+  .mission-brief,
+  .radar-section {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .build-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .construction-section {
+    padding: 15px;
+    border-top: 1px solid var(--line);
+  }
+  .inspect-main {
+    padding: 15px;
+  }
+  .build-card {
+    min-height: 65px;
+    padding: 10px;
+  }
+  .research-item strong {
+    font-size: 14px;
+  }
+  .research-icon svg {
+    width: 20px;
+    height: 20px;
+  }
+  .ability-section {
+    display: block;
+    padding: 14px 0 0;
+  }
+  .pulse-button,
+  .ability-section > p {
+    width: 100%;
+  }
+  .ability-section > p {
+    margin-top: 12px;
+  }
+  .hud {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .hud > div {
+    min-height: 76px;
+  }
+  .hud .orders {
+    grid-column: 1 / -1;
+    display: flex;
+    min-height: 44px;
+    border-top: 1px solid var(--line);
+  }
+  .hud .orders .stat-label {
+    font-size: 12px;
+  }
+  .income small {
+    display: block;
+  }
+  .income {
+    margin-left: auto;
+  }
+  .hud strong small {
+    font-size: 12px;
+  }
+  .hud .orders strong {
+    font-size: 24px;
+  }
+  .hud .orders strong small {
+    font-size: 12px;
+  }
+  .system-buttons {
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .system-buttons button {
+    flex: 1;
+    min-width: 38px;
+  }
+  .system-buttons button span {
+    display: none;
+  }
+  .game-header {
+    gap: 12px;
+    padding-bottom: 6px;
+  }
+  .game-logo small {
+    font-size: 12px;
+  }
+  .dock-caption > span {
+    display: block;
+    width: 100%;
+  }
+  .view-controls {
+    flex-wrap: wrap;
+  }
+  .panel-cap {
+    font-size: 12px;
+  }
+  .battle-panel > .panel-cap > span {
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  .turn-hint,
+  .save-status .live-light {
+    display: none;
+  }
+  .save-status {
+    font-size: 12px;
+    max-width: 160px;
+    line-height: 1.5;
+  }
+  .end-turn {
+    min-width: 160px;
+    padding: 12px 9px;
+    gap: 9px;
+    font-size: 14px;
+  }
+  .end-turn kbd {
+    display: none;
+  }
+  .command-footer {
+    flex-wrap: wrap;
+  }
+  .scenario-select {
+    grid-template-columns: 1fr;
+  }
+  .scenario-card {
+    display: block;
+  }
+  .planet-art {
+    float: left;
+    margin: 5px 20px 15px 0;
+  }
+  .difficulty-select small {
+    display: block;
+  }
+  .difficulty-select {
+    grid-template-columns: 1fr;
+  }
+  .result-overlay {
+    justify-content: flex-start;
+    padding: 14px;
+  }
+  .result-overlay .eyebrow {
+    font-size: 12px;
+  }
+}
+@media (max-width: 420px) {
+  .blueprints {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .blueprints .mini-sprite {
+    width: 42px;
+    height: 42px;
+  }
+  .save-status {
+    max-width: 112px;
+  }
+  .save-status > span {
+    font-size: 12px;
+  }
+  .end-turn {
+    min-width: 148px;
+  }
+  .modal-actions {
+    flex-direction: column;
   }
 }
