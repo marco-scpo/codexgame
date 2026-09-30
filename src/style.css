@@ -3726,3 +3726,49 @@ p {
     flex-direction: column;
   }
 }
+/* The laptop battlefield gets the space; duplicate dock details stay in the console. */
+@media (min-width: 1200px) and (min-height: 650px) {
+  .board {
+    aspect-ratio: 16 / 9;
+  }
+  .map-layout {
+    width: min(100%, calc((100cqh - 82px) * 1.7778 + 20px));
+  }
+}
+@media (min-width: 1200px) and (max-height: 949px) and (min-height: 650px) {
+  .map-topline,
+  .dock-caption {
+    display: none;
+  }
+  .blueprint-dock {
+    padding: 7px 10px;
+  }
+  .blueprints .mini-sprite,
+  .blueprints button > small,
+  .blueprints kbd {
+    display: none;
+  }
+  .blueprints button {
+    min-height: 38px;
+    padding: 7px 3px;
+  }
+  .blueprints button > span {
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .combat-feed {
+    min-height: 65px;
+    padding: 8px 14px;
+  }
+  .feed-lines > div:nth-child(n + 2) {
+    display: none;
+  }
+  .feed-lines p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .map-layout {
+    width: min(100%, calc((100cqh - 50px) * 1.7778 + 20px));
+  }
+}

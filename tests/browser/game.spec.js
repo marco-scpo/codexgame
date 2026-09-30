@@ -199,6 +199,7 @@ for (const [width, height] of [
       const board = await page.locator(".board").boundingBox(),
         button = await page.locator('[data-command="end"]').boundingBox();
       expect(board.y + board.height).toBeLessThan(height);
+      expect(board.height).toBeGreaterThanOrEqual(220);
       expect(button.y + button.height).toBeLessThanOrEqual(height);
       const container = await page
         .locator(".battlefield-container")
